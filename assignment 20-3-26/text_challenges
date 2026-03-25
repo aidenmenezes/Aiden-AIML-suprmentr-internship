@@ -1,0 +1,43 @@
+Date: 20-3-26
+
+Assignment Name: Text Challenges
+
+Collected Sentences (Examples)
+omg this movie is sooo good!!! 😍🔥
+lol idk what was that 😂
+this is gr8 bro
+i cant beleive this happend
+sooo boringggg
+wat r u doing
+this food is yummyyy 😋
+not gud at all
+ths movi ws awsm
+meh it was ok
+i luv this song
+u r amazing
+this is lit 🔥
+no wayyy 😳
+bad acting tbh
+wowwww awesome
+idc anymore
+best day everrr
+hmmm okay
+very very niceee
+
+Issues Identified
+Slang: omg, lol, idk
+Emojis: 😍🔥😂
+Typos: beleive, happend
+Repeated letters: sooo, niceee
+
+Preprocessing Needed
+Convert to lowercase
+Remove emojis
+Correct spelling
+Normalize repeated letters
+Remove stopwords
+
+Learning Outcome
+Identified real-world messy text
+Understood importance of preprocessing
+Learned common NLP challenges

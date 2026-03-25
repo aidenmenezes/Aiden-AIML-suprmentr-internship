@@ -1,0 +1,62 @@
+Date: 2-3-26
+
+
+College Domain – Student Performance Prediction
+
+Problem: Predict whether a student will pass or fail.
+
+Input → Output:
+
+Input: Attendance %, Previous Marks, Study Hours, Assignment Scores
+
+Output: Pass / Fail (Classification)
+
+College Domain – Placement Prediction
+
+Problem: Predict whether a student will get placed in campus recruitment.
+
+Input → Output:
+
+Input: CGPA, Internship Experience, Technical Skills Score, Aptitude Test Score
+
+Output: Placed / Not Placed (Classification)
+
+Healthcare Domain – Disease Prediction
+
+Problem: Predict whether a patient has a particular disease (e.g., diabetes).
+
+Input → Output:
+
+Input: Age, BMI, Blood Pressure, Glucose Level, Family History
+
+Output: Disease Present / Not Present (Classification)
+
+Healthcare Domain – Hospital Readmission Prediction
+
+Problem: Predict if a patient will be readmitted within 30 days.
+
+Input → Output:
+
+Input: Diagnosis Type, Length of Stay, Previous Admissions, Age
+
+Output: Readmitted / Not Readmitted (Classification)
+
+Shopping Domain – Product Recommendation System
+
+Problem: Recommend products to customers based on their behavior.
+
+Input → Output:
+
+Input: Browsing History, Purchase History, Cart Items, Search Queries
+
+Output: Recommended Products (Recommendation System)
+
+Shopping Domain – Price Prediction
+
+Problem: Predict the price of a product.
+
+Input → Output:
+
+Input: Brand, Features, Ratings, Demand Level
+
+Output: Predicted Price (Regression)

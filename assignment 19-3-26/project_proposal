@@ -1,0 +1,47 @@
+Date: 19-3-26
+
+
+Assignment Name: Mini Project Proposal
+Title: Student Placement Prediction System
+Problem Statement
+
+In today’s competitive job market, predicting whether a student will get placed during campus recruitment is a challenging task for both students and institutions. The objective of this project is to develop a Student Placement Prediction System that uses Machine Learning techniques to predict the likelihood of a student being placed based on academic and skill-related factors. This system can assist students in identifying areas of improvement and help institutions enhance training strategies.
+
+Dataset Description
+
+The dataset will consist of key attributes that influence placement outcomes. The selected features include:
+
+CGPA: Represents the academic performance of the student
+Internship Experience: Indicates whether the student has completed internships (Yes/No or number of internships)
+Skills Score: A numerical score representing technical and soft skills
+Aptitude Score: Score obtained in aptitude or logical reasoning tests
+
+The target variable will be:
+
+Placement Status: Whether the student is placed or not (0 = Not Placed, 1 = Placed)
+
+The dataset can be either manually created for experimentation or collected from real-world sources such as college placement records.
+
+Proposed Algorithms
+
+To build the prediction model, the following Machine Learning algorithms will be used:
+
+Logistic Regression: A simple and effective classification algorithm suitable for binary outcomes
+Random Forest: An ensemble learning method that improves prediction accuracy by combining multiple decision trees
+
+These algorithms will be trained and compared to determine which provides better performance.
+
+Methodology
+Data Collection: Gather or create a dataset with relevant features
+Data Preprocessing: Handle missing values, normalize data, and encode categorical variables
+Feature Selection: Identify important features affecting placement
+Model Training: Train Logistic Regression and Random Forest models
+Model Evaluation: Evaluate models using accuracy and other metrics
+Prediction: Use the trained model to predict placement for new students
+Expected Output
+A prediction indicating whether a student will be Placed or Not Placed
+Accuracy score of the trained model
+Feature importance analysis showing which factors influence placement the most
+Conclusion
+
+This project provides a practical application of Machine Learning in the education domain. By predicting student placement outcomes, it helps students understand their strengths and weaknesses and enables institutions to improve training programs. The system demonstrates how data-driven decision-making can enhance career planning and recruitment processes.
